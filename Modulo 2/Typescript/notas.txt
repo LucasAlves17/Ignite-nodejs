@@ -1,0 +1,5 @@
+yarn init -y
+yarn add express
+yarn add @types/express -D //adicionar @types para reconhecer o ts e -D pq sempre o ts é no desenv
+yarn add typescript -D
+yarn tsc --init
